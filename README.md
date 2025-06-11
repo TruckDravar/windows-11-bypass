@@ -9,7 +9,7 @@ Bypass TPM 2.0, Secure boot, UEFI, Minimum Ram(4Gb) and Storage(64gb) requiremen
     * ``` notepad ```
    and press enter.
 4. In Notepad:
-   * Paste the code in ```Windows Registry Editor Version 5.00
+   * Paste the code in ``` Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig]
 "BypassTPMCheck"=dword:00000001
