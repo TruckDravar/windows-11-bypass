@@ -9,4 +9,7 @@ Windows 11 command prompt to bypass TPM 2.0, Secure boot, UEFI, Minimum Ram(4Gb)
     ``` notepad ```
    and press enter.
 4. In Notepad:
-       */Paste the code in [windows11-bypass.reg](./windows11-bypass.reg)
+       * Paste the code in [windows11-bypass.reg](./windows11-bypass.reg).
+       * Save it as ```windows11-bypass.reg```.
+       * File type: ```All Files```.
+       * Encoding: ```ANSI```.
