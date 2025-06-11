@@ -6,7 +6,7 @@ Windows 11 command prompt to bypass TPM 2.0, Secure boot, UEFI, Minimum Ram(4Gb)
 1. During Windows 11 installation, when you get the “This PC can’t run Windows 11” message:
     -Press Shift + F10 to open Command Prompt.
 2. Type:
-    ``` notepad ```
+    * ``` notepad ```
    and press enter.
 4. In Notepad:
    * Paste the code in [windows11-bypass.reg](./windows11-bypass.reg).
