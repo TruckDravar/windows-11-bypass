@@ -2,7 +2,7 @@
 Bypass TPM 2.0, Secure boot, UEFI, Minimum Ram(4Gb) and Storage(64gb) requirement when installing windows 11
 
 # How to use
-> **WARNING** Do steps before trying for error or redo the setup procdure if got one.
+> ⚠️**WARNING** Do steps before trying for error or redo the setup procdure if got one.
 1. During Windows 11 installation, when you get the “This PC can’t run Windows 11” message:
     -Press Shift + F10 to open Command Prompt.
 2. Type:
